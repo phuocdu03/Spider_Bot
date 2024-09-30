@@ -1,0 +1,10 @@
+ESP32:
+- tải thư viện Bluetooth được trong library.
+- Nộp code mẫu điều khiển.
+Hướng dẫn sử dụng app:
+- Vào thư mục "demoApp" và download file apk về máy và cài đặt(áp dụng cho các máy android).
+- Sau khi download cấp quyền cho app Hexpod.
+- Mở bluetooth trên máy và ghép đôi với bluetooth-ESP32
+- Vào app vào phần "DEVICES LIST" chọn vào bluetooth-ESP32
+Link youtube tham khảo:
+- https://www.youtube.com/watch?v=w5LgLsCumFI
